@@ -1,6 +1,6 @@
 # Vendor Sales Analysis
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 
 > An complete data analytics pipeline that transforms raw vendor sales data into actionable business insights — leveraging **SQL** for efficient data wrangling, **Python** for cleaning and  advanced analysis, and **Power BI** for building dynamic, interactive dashboards.
 ---
@@ -94,7 +94,8 @@ The Power BI dashboard includes:
 - Purchase and margin breakdown.
 - Trend and comparative analysis.
 
-*(Add screenshots or GIFs of your dashboard here from `/dashboard/Vendor_sales_dashboard.png`)*
+<img width="1084" height="608" alt="image" src="https://github.com/user-attachments/assets/fef80568-a443-4557-8262-d2e735497186" />
+
 
 ---
 
