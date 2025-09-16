@@ -10,14 +10,14 @@
 ---
 
 ## Project overview
-
--Built a **data analysis pipeline** from raw CSVs to an interactive **Power BI dashboard**.
--Analyzed **vendor purchase patterns** and **contribution percentages**.
--Highlighted **high-margin**, **low-sales** brands to uncover opportunities.
--Delivered actionable **insights** for data-driven **business strategy**.
+1. Built a **data analysis pipeline** from raw CSVs to an interactive **Power BI dashboard**.
+2. Analyzed **vendor purchase patterns** and **contribution percentages**.
+3. Highlighted **high-margin**, **low-sales** brands to uncover opportunities.
+4. Delivered actionable **insights** for data-driven **business strategy**.
 
 ---
-##Workflow
+## Workflow
+
 Data ➡️ Database ➡️ Data Cleaning & Preparation ➡️ EDA ➡️ Power BI Dashboard
 
 ---
