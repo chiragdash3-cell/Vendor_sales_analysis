@@ -3,9 +3,6 @@
 
 
 > An complete data analytics pipeline that transforms raw vendor sales data into actionable business insights — leveraging **SQL** for efficient data wrangling, **Python** for cleaning and  advanced analysis, and **Power BI** for building dynamic, interactive dashboards.
----
-
-
 
 ---
 
@@ -16,6 +13,7 @@
 4. Delivered actionable **insights** for data-driven **business strategy**.
 
 ---
+
 ## Workflow
 
 Data ➡️ Database ➡️ Data Cleaning & Preparation ➡️ EDA ➡️ Power BI Dashboard
