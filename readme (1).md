@@ -62,10 +62,6 @@ vendor-sales-analysis/
 
 ---
 
-
-
----
-
 ## Usage
 Run analysis notebooks step by step:
 1. Open `notebooks/Data_ingestion.ipynb`
